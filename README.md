@@ -6,4 +6,5 @@ Cursos de programación
 2. [Visual Basic](https://github.com/hguzman/curso-visual-basic)
 3. [Vim](https://github.com/hguzman/curso-vim)
 4. [Dart](https://github.com/hguzman/curso-dart)
+5. [Ruby on Rails](https://github.com/hguzman/curso-ruby-on-rails)
 
