@@ -8,4 +8,5 @@ Cursos de programación
 4. [Dart](https://github.com/hguzman/curso-dart)
 5. [Ruby on Rails](https://github.com/hguzman/curso-ruby-on-rails)
 6. [Node js](https://github.com/hguzman/curso-node-js)
+7. [GIT y GitHub](https://github.com/hguzman/curso-git-github)
 
