@@ -10,4 +10,5 @@ Cursos de programación
 6. [Node js](https://github.com/hguzman/curso-node-js)
 7. [GIT y GitHub](https://github.com/hguzman/curso-git-github)
 8. [Comando por consola Windows/Linux](https://github.com/hguzman/curso-comandos-windows-linux)
+9. [Informatica Básica](https://github.com/hguzman/curso-informatica-basica)
 
