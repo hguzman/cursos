@@ -1,6 +1,6 @@
 # Cursos programación
 
-Cursos de programación 
+Cursos de programación
 
 1. [Comando por consola Windows/Linux](https://github.com/hguzman/curso-comandos-windows-linux)
 2. [CSS](https://github.com/hguzman/curso-css)
@@ -12,4 +12,4 @@ Cursos de programación
 7. [Node js](https://github.com/hguzman/curso-node-js)
 8. [Ruby on Rails](https://github.com/hguzman/curso-ruby-on-rails)
 9. [Vim](https://github.com/hguzman/curso-vim)
-
+10. [HTML](https://github.com/hguzman/curso-html)
